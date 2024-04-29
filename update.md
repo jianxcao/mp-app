@@ -1,3 +1,14 @@
+## 0.1.7
+> 后端版本 1.8.4
+- 优化processDialogModal逻辑
+- Person相关
+  - PersonCard合成一个
+  - PersonDetail显示修改
+- 详情页面搜索逻辑调整
+- about显示前端app版本
+- 历史记录增加排序
+
+
 ## 0.1.6
 > 后端版本 1.8.3
 - 图片逻辑优化
